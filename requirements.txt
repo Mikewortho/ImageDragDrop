@@ -1,0 +1,9 @@
+
+PIL
+io
+easyocr
+numpy
+transformers 
+BartTokenizer
+BartForConditionalGeneration
+cv2
