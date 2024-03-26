@@ -1,9 +1,5 @@
-
-PIL
-io
-easyocr
-numpy
-transformers 
-BartTokenizer
-BartForConditionalGeneration
-cv2
+streamlit==1.6.0
+Pillow==8.5.0
+easyocr==1.4.1
+transformers==4.11.3
+opencv-python==4.5.4.60
