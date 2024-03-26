@@ -1,4 +1,4 @@
 Pillow
 easyocr
 transformers
-python3-opencv
+opencv-python3
